@@ -1,0 +1,2 @@
+# premium-garden-arch-001-garden-arch-forging-trellis
+You've sketched the perfect garden arch, but keeping track of materials, dimensions, and build steps across scattered notes is a tangled mess.  This Notion template transforms your creative vision into a structured, trackable project. It organizes every phase—from design sketches to forging specs and trellis assembly—so you can focus on crafting, n
